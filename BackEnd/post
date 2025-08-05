@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Aswin kumar",
+        "id": 101,
+        "dpt": "cse",
+        "rollNum": 21
+    },
+    {
+        "name": "Robert JR",
+        "id": 102,
+        "dpt": "cse",
+        "rollNum": 22
+    },
+    {
+        "name": "Messi",
+        "id": 103,
+        "dpt": "cse",
+        "rollNum": 18
+    },
+    {
+        "name": "Dravid",
+        "id": 104,
+        "dpt": "cse",
+        "rollNum": 14
+    }
+]

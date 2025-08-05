@@ -1,0 +1,15 @@
+import React from 'react'
+import Navbar from '../components/Navbar';
+
+const Appliances = () => {
+  return (
+    <>
+    <Navbar />
+    <div className='bg-emphrasis'>
+      <h1>Shoe</h1>
+    </div>
+    </>
+  )
+}
+
+export default Appliances

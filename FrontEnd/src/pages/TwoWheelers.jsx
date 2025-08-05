@@ -1,0 +1,15 @@
+import React from 'react'
+import Navbar from '../components/Navbar';
+
+const TwoWheelers = () => {
+  return (
+    <>
+    <Navbar />
+    <div className='bg-emphrasis'>
+      <h1>Shoe</h1>
+    </div>
+    </>
+  )
+}
+
+export default TwoWheelers
