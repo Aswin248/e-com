@@ -1,6 +1,6 @@
 import React, { useState, useContext } from 'react';
 import { useParams, Link } from 'react-router-dom';
-import { CartContext } from '../context/CartContext';
+import { CartContext } from '../Context/CartContext';
 import Monitor from '../assets/Pictures/Monitor.jfif';
 import Lg from '../assets/Pictures/Lg.jfif';
 import Msi from '../assets/Pictures/Msi.jfif';
