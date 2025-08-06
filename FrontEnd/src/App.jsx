@@ -19,7 +19,7 @@ import SellingMobileSpeakers from './pages/SellingMobileSpeakers';
 import AddToCart2 from './pages/AddToCart2';
 import MonitorProduct from './pages/MonitorProduct';
 import Monitors from './pages/Monitors';
-import CartProvider from './context/CartContext';
+import CartProvider from './Context/CartContext';
 import Profile from './pages/Profile';
 import AdminPanel from './pages/AdminPanel';
 import ProductBrands from './pages/ProductBrands';
