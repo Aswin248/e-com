@@ -3,7 +3,7 @@ import { Link, useNavigate } from 'react-router-dom';
 import '../app.css';
 import logo from '../assets/Pictures/Flipkart Logo.jfif';
 import Profile from '../assets/Pictures/Profile.png';
-import { CartContext } from '../context/CartContext';
+import { CartContext } from '../Context/CartContext';
 
 const Navbar = () => {
   const { cartItems } = useContext(CartContext);
